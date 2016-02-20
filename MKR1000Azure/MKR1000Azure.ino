@@ -5,7 +5,7 @@ when there is a message for the particular device.
 Written by Mohan Palanisamy (http://mohanp.com)
 
 Instructions are here to properly set up the MKR1000 for SSL connections.
-
+http://mohanp.com/mkr1000-azure-iot-hub-how-to/
 Feb 19, 2016
 */
 
